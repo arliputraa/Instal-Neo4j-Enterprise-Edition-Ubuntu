@@ -26,7 +26,7 @@ For Bloom
    
     wget https://neo4j.com/artifact.php?name=neo4j-bloom-2.4.0.zip -O neo4j-bloom-2.4.0.zip
     
-* Edit Conf in file path /home/neo4j-enterprise-4.4.11/conf
+* Edit and insert teks below in conf file path /home/neo4j-enterprise-4.4.11/conf
 
          dbms.security.procedures.unrestricted=apoc.*,gds.*,bloom.*
          dbms.security.procedures.allowlist=apoc.*,gds.*,bloom.*
