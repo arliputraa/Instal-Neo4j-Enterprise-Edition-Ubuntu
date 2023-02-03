@@ -1,4 +1,4 @@
-# Install Neo4j Enterprise Edition in Ubuntu 100% Work and Simple!
+# Install Neo4j Enterprise Edition in Ubuntu 
 
 * Install Java if not instal in ubuntu
 
