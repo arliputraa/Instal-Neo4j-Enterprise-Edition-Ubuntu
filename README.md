@@ -4,9 +4,9 @@
 
        sudo apt install openjdk-11-jre-headless -y
 
-* Download Neo4j Enterprise, replace if there is a new version (For now Version 4.4.11)
+* Download Neo4j Enterprise, replace if there is a new version (For now Version 4.4.16)
 
-      wget https://neo4j.com/artifact.php?name=neo4j-enterprise-4.4.11-unix.tar.gz -O neo4j-enterprise-4.4.11-unix.tar.gz
+      wget https://neo4j.com/artifact.php?name=neo4j-enterprise-4.4.16-unix.tar.gz -O neo4j-enterprise-4.4.16-unix.tar.gz
 
 * Un-tar Neo4j Packages
 
@@ -35,7 +35,7 @@ For Bloom
          dbms.default_listen_address=0.0.0.0
          dbms.default_advertised_address=(YOUR IP)
     
- * Start Neo4j in file path /home/neo4j-enterprise-4.4.11/bin
+ * Start Neo4j in file path /home/neo4j-enterprise-4.4.16/bin
  
          ./neo4j start
     
