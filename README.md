@@ -10,7 +10,7 @@
 
 * Un-tar Neo4j Packages
 
-       tar -xvf neo4j-enterprise-4.4.11-unix.tar.gz
+       tar -xvf neo4j-enterprise-4.4.16-unix.tar.gz
     
 * Download Plugins for Graph Data Science, APOC, and Bloom.
 
